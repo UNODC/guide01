@@ -110,17 +110,14 @@
     </div>
     <script>
         var url = new URL("manifest.json", window.location.href);
-        var cacheUrl = new URL("appcache.html", window.location.href);	
         var upLink = {url: new URL("https://unodc.github.io/guide01"), label: "Back", ariaLabel: "Go back"};
         var serviceWorkerUrl = new URL("https://unodc.github.io/guide01/sw.js", window.location.href);
           R2Reader.load({
             url: url,
             customHeader: true,
             customFooter: true,
-            eventTarget: null,
             serviceWorkerUrl: serviceWorkerUrl,
             upLinkUrl: upLink,
-            bookCacheUrl: cacheUrl,
           });
     </script>
     <script src="https://aferditamuriqi.github.io/viewer/materialize.min.js"></script>
