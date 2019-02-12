@@ -3,12 +3,12 @@
   "name": "Smuggling of Migrants & Human Trafficking: A field guide for frontline officers",
   "icons": [
     {
-      "src": "https://unodc.github.io/guide01/en/images/app-icon-192.png",
+      "src": "https://unodc.github.io/guide01/en/app-icon-192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "https://unodc.github.io/guide01/en/images/app-icon-512.png",
+      "src": "https://unodc.github.io/guide01/en/app-icon-512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
