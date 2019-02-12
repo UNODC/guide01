@@ -1,0 +1,413 @@
+{
+  "@context": [
+    "https://readium.org/webpub-manifest/context.jsonld"
+  ],
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Smuggling of Migrants & Human Trafficking: A field guide for frontline officers",
+    "identifier": "urn:uuid:472cf403-4dd5-54a1-3c42-1f5a306ba931",
+    "author": {
+      "name": "N/A"
+    },
+    "publisher": {
+      "name": "United Nations Office on Drugs and Crime"
+    },
+    "language": [
+      "en"
+    ],
+    "modified": "2019-02-07T01:39:11.418Z",
+    "description": "<p>Copyright &copy; United Nations Office on Drugs and Crime, 2018. This field guide was produced by the United Nations Office on Drugs and Crime, Regional Office for Southeast Asia and the Pacific, in Bangkok, Thailand.&nbsp;</p>\n\n<p>This is not an official document of the United Nations. The designations employed and the presentation of the material in this document do not imply the expression of any opinion whatsoever on the part of the Secretariat of the United Nations Office on Drugs and Crime concerning the legal status of any country, territory, city or area of its authorities, or concerning the delimitations of its frontiers and boundaries.</p>\n\n<p>UNODC would like to recognize the contribution of the Government of Australia, the Government of Canada and the Government of the United States of America.</p>\n",
+    "rendition": {
+      "layout": "reflowable"
+    },
+    "rights": "United Nations Office on Drugs and Crime"
+  },
+  "readingOrder": [
+    {
+      "href": "EPUB/xhtml/raw/s708lt.xhtml",
+      "type": "application/xhtml+xml",
+      "properties": {
+        "layout": "reflowable"
+      }
+    },
+    {
+      "href": "EPUB/xhtml/raw/s1l9vz.xhtml",
+      "type": "application/xhtml+xml",
+      "properties": {
+        "layout": "reflowable"
+      }
+    },
+    {
+      "href": "EPUB/xhtml/raw/skjfma.xhtml",
+      "type": "application/xhtml+xml",
+      "properties": {
+        "layout": "reflowable"
+      }
+    },
+    {
+      "href": "EPUB/xhtml/raw/s62pgx.xhtml",
+      "type": "application/xhtml+xml",
+      "properties": {
+        "layout": "reflowable"
+      }
+    },
+    {
+      "href": "EPUB/xhtml/raw/spp9j3.xhtml",
+      "type": "application/xhtml+xml",
+      "properties": {
+        "layout": "reflowable"
+      }
+    },
+    {
+      "href": "EPUB/xhtml/raw/saju14.xhtml",
+      "type": "application/xhtml+xml",
+      "properties": {
+        "layout": "reflowable"
+      }
+    },
+    {
+      "href": "EPUB/xhtml/raw/sq4zu3.xhtml",
+      "type": "application/xhtml+xml",
+      "properties": {
+        "layout": "reflowable"
+      }
+    },
+    {
+      "href": "EPUB/xhtml/raw/sxn8or.xhtml",
+      "type": "application/xhtml+xml",
+      "properties": {
+        "layout": "reflowable"
+      }
+    },
+    {
+      "href": "EPUB/xhtml/raw/ssby9p.xhtml",
+      "type": "application/xhtml+xml",
+      "properties": {
+        "layout": "reflowable"
+      }
+    },
+    {
+      "href": "EPUB/xhtml/raw/st2l02.xhtml",
+      "type": "application/xhtml+xml",
+      "properties": {
+        "layout": "reflowable"
+      }
+    },
+    {
+      "href": "EPUB/xhtml/raw/s2entz.xhtml",
+      "type": "application/xhtml+xml",
+      "properties": {
+        "layout": "reflowable"
+      }
+    },
+    {
+      "href": "EPUB/xhtml/raw/s3a15x.xhtml",
+      "type": "application/xhtml+xml",
+      "properties": {
+        "layout": "reflowable"
+      }
+    },
+    {
+      "href": "EPUB/xhtml/raw/srn4hs.xhtml",
+      "type": "application/xhtml+xml",
+      "properties": {
+        "layout": "reflowable"
+      }
+    },
+    {
+      "href": "EPUB/xhtml/raw/sbqs6r.xhtml",
+      "type": "application/xhtml+xml",
+      "properties": {
+        "layout": "reflowable"
+      }
+    },
+    {
+      "href": "EPUB/xhtml/raw/setido.xhtml",
+      "type": "application/xhtml+xml",
+      "properties": {
+        "layout": "reflowable"
+      }
+    },
+    {
+      "href": "EPUB/xhtml/raw/s8bqus.xhtml",
+      "type": "application/xhtml+xml",
+      "properties": {
+        "layout": "reflowable"
+      }
+    },
+    {
+      "href": "EPUB/xhtml/raw/s6tn23.xhtml",
+      "type": "application/xhtml+xml",
+      "properties": {
+        "layout": "reflowable"
+      }
+    },
+    {
+      "href": "EPUB/xhtml/raw/swgv1m.xhtml",
+      "type": "application/xhtml+xml",
+      "properties": {
+        "layout": "reflowable"
+      }
+    },
+    {
+      "href": "EPUB/xhtml/raw/s3aewc.xhtml",
+      "type": "application/xhtml+xml",
+      "properties": {
+        "layout": "reflowable"
+      }
+    },
+    {
+      "href": "EPUB/xhtml/raw/see6xd.xhtml",
+      "type": "application/xhtml+xml",
+      "properties": {
+        "layout": "reflowable"
+      }
+    },
+    {
+      "href": "EPUB/xhtml/raw/snzn4q.xhtml",
+      "type": "application/xhtml+xml",
+      "properties": {
+        "layout": "reflowable"
+      }
+    },
+    {
+      "href": "EPUB/xhtml/raw/s9yof9.xhtml",
+      "type": "application/xhtml+xml",
+      "properties": {
+        "layout": "reflowable"
+      }
+    },
+    {
+      "href": "EPUB/xhtml/raw/smd5q7.xhtml",
+      "type": "application/xhtml+xml",
+      "properties": {
+        "layout": "reflowable"
+      }
+    },
+    {
+      "href": "EPUB/xhtml/raw/suvxag.xhtml",
+      "type": "application/xhtml+xml",
+      "properties": {
+        "layout": "reflowable"
+      }
+    },
+    {
+      "href": "EPUB/xhtml/raw/sphmpe.xhtml",
+      "type": "application/xhtml+xml",
+      "properties": {
+        "layout": "reflowable"
+      }
+    },
+    {
+      "href": "EPUB/xhtml/raw/skj9hb.xhtml",
+      "type": "application/xhtml+xml",
+      "properties": {
+        "layout": "reflowable"
+      }
+    },
+    {
+      "href": "EPUB/xhtml/raw/st2dcj.xhtml",
+      "type": "application/xhtml+xml",
+      "properties": {
+        "layout": "reflowable"
+      }
+    },
+    {
+      "href": "EPUB/xhtml/raw/soh54x.xhtml",
+      "type": "application/xhtml+xml",
+      "properties": {
+        "layout": "reflowable"
+      }
+    },
+    {
+      "href": "EPUB/xhtml/raw/syc1tn.xhtml",
+      "type": "application/xhtml+xml",
+      "properties": {
+        "layout": "reflowable"
+      }
+    },
+    {
+      "href": "EPUB/xhtml/raw/sq3f6o.xhtml",
+      "type": "application/xhtml+xml",
+      "properties": {
+        "layout": "reflowable"
+      }
+    },
+    {
+      "href": "EPUB/xhtml/raw/sw8ipj.xhtml",
+      "type": "application/xhtml+xml",
+      "properties": {
+        "layout": "reflowable"
+      }
+    },
+    {
+      "href": "EPUB/xhtml/raw/sq9fcd.xhtml",
+      "type": "application/xhtml+xml",
+      "properties": {
+        "layout": "reflowable"
+      }
+    },
+    {
+      "href": "EPUB/xhtml/raw/sfaxst.xhtml",
+      "type": "application/xhtml+xml",
+      "properties": {
+        "layout": "reflowable"
+      }
+    },
+    {
+      "href": "EPUB/xhtml/raw/smdyfg.xhtml",
+      "type": "application/xhtml+xml",
+      "properties": {
+        "layout": "reflowable"
+      }
+    },
+    {
+      "href": "EPUB/xhtml/raw/sz6kce.xhtml",
+      "type": "application/xhtml+xml",
+      "properties": {
+        "layout": "reflowable"
+      }
+    }
+  ],
+  "toc": [
+    {
+      "href": "EPUB/xhtml/raw/saju14.xhtml",
+      "title": "Sources of Information"
+    },
+    {
+      "href": "EPUB/xhtml/raw/sq4zu3.xhtml",
+      "title": "Managing Informants"
+    },
+    {
+      "href": "EPUB/xhtml/raw/sxn8or.xhtml",
+      "title": "Intelligence Reports"
+    },
+    {
+      "href": "EPUB/xhtml/raw/ssby9p.xhtml",
+      "title": "Sharing Intelligence"
+    },
+    {
+      "href": "EPUB/xhtml/raw/st2l02.xhtml",
+      "title": "Decision Making"
+    },
+    {
+      "href": "EPUB/xhtml/raw/s2entz.xhtml",
+      "title": "Operational Orders"
+    },
+    {
+      "href": "EPUB/xhtml/raw/s3a15x.xhtml",
+      "title": "Assessing Risks"
+    },
+    {
+      "href": "EPUB/xhtml/raw/srn4hs.xhtml",
+      "title": "Surveillance"
+    },
+    {
+      "href": "EPUB/xhtml/raw/sbqs6r.xhtml",
+      "title": "Technical Investigations"
+    },
+    {
+      "href": "EPUB/xhtml/raw/setido.xhtml",
+      "title": "Controlled Deliveries"
+    },
+    {
+      "href": "EPUB/xhtml/raw/s8bqus.xhtml",
+      "title": "Preserving a Crime Scene"
+    },
+    {
+      "title": "Searching a Crime Scene",
+      "children": [
+        {
+          "href": "EPUB/xhtml/raw/s6tn23.xhtml",
+          "title": "Vehicle Search"
+        },
+        {
+          "href": "EPUB/xhtml/raw/swgv1m.xhtml",
+          "title": "Premises Search"
+        },
+        {
+          "href": "EPUB/xhtml/raw/s3aewc.xhtml",
+          "title": "Rural Search"
+        },
+        {
+          "href": "EPUB/xhtml/raw/see6xd.xhtml",
+          "title": "Vessel Search"
+        }
+      ]
+    },
+    {
+      "href": "EPUB/xhtml/raw/snzn4q.xhtml",
+      "title": "Forensic Considerations"
+    },
+    {
+      "href": "EPUB/xhtml/raw/s9yof9.xhtml",
+      "title": "Evidence Preservation"
+    },
+    {
+      "href": "EPUB/xhtml/raw/smd5q7.xhtml",
+      "title": "Follow the Money Trail"
+    },
+    {
+      "href": "EPUB/xhtml/raw/suvxag.xhtml",
+      "title": "Searching People"
+    },
+    {
+      "href": "EPUB/xhtml/raw/sphmpe.xhtml",
+      "title": "Interviewing Suspects",
+      "children": [
+        {
+          "title": "Sample Interview Questions",
+          "children": [
+            {
+              "href": "EPUB/xhtml/raw/skj9hb.xhtml",
+              "title": "For Migrant Smugglers"
+            },
+            {
+              "href": "EPUB/xhtml/raw/st2dcj.xhtml",
+              "title": "For Human Trafficking Suspects"
+            },
+            {
+              "href": "EPUB/xhtml/raw/soh54x.xhtml",
+              "title": "For Businesses that Employ Victims"
+            },
+            {
+              "href": "EPUB/xhtml/raw/syc1tn.xhtml",
+              "title": "For Safe House Operators who Hide Victims"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "href": "EPUB/xhtml/raw/sq3f6o.xhtml",
+      "title": "Interviewing Victims",
+      "children": [
+        {
+          "title": "Sample Interview Questions",
+          "children": [
+            {
+              "href": "EPUB/xhtml/raw/sw8ipj.xhtml",
+              "title": "For migrants:"
+            },
+            {
+              "href": "EPUB/xhtml/raw/sq9fcd.xhtml",
+              "title": "For human trafficking victims:"
+            },
+            {
+              "href": "EPUB/xhtml/raw/sfaxst.xhtml",
+              "title": "For child victims:"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "href": "EPUB/xhtml/raw/smdyfg.xhtml",
+      "title": "Travel Documents"
+    },
+    {
+      "href": "EPUB/xhtml/raw/sz6kce.xhtml",
+      "title": "Identifying Imposters"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Guide 1",
+  "start_url": "https://unodc.github.io/guide01/en/index.html",
+  "background_color": "#a5d6a7",
+  "display": "standalone",
+  "publication": "manifest.json"
+}

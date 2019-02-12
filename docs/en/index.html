@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Smuggling of Migrants &amp; Human Trafficking: A field guide for frontline officers</title>
+  <meta charset="utf-8">
+  <link rel="manifest" href="manifest.webmanifest">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover" />
+  <link rel="stylesheet" href="https://aferditamuriqi.github.io/viewer/r2-reader.css" />
+  <script> var exports = {}; </script>
+  <script src="https://aferditamuriqi.github.io/viewer/r2-reader.js"></script>
+  <script src="https://aferditamuriqi.github.io/viewer/fetch.js"></script>
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link rel="stylesheet" href="https://aferditamuriqi.github.io/viewer/material.css" />
+  <style>
+    #nav-mobile-left li a i {
+      color: #000000 !important;
+    }
+    .btn {
+      background-color: #A5D6A7 !important;
+    }
+    .settings-view > .settings-menu .settings-options > .reading-style > button.active {
+      background-color: #81C784 !important;
+    }
+    .unodc-icon {
+      line-height: 48px;
+      margin: 17px 20px 0 0;
+      width: 36px;
+      content: url("icon.png");
+    }
+  </style>
+</head>
+<body>
+    <div class="content" id="root">
+        <header id="headerMenu">
+            <div class="navbar-fixed">
+                <nav class="navbar green lighten-2">
+                    <div class="nav-wrapper"><span class="brand-logo  hide-on-med-and-down "></span>
+                        <ul id="nav-mobile-right" class="right">
+                            <li><a data-target="notes-input" class="dropdown-trigger "><i class="material-icons ">speaker_notes</i></a></li>
+                            <li><a class="saveBookmark" id="saveBookmark"><i class="material-icons ">bookmark</i></a></li>
+                            <li><a data-target="user-settings" class="dropdown-trigger "><i class="material-icons ">settings</i></a></li>
+                         </ul>
+                        <ul id="nav-mobile-left" class="left">
+                            <li><a href="#!" data-target="sidenav-left" class="sidenav-trigger left"><i class="material-icons  show-on-large">menu</i></a></li>
+                        </ul>
+                    </div>
+                </nav>
+            </div>
+            <ul id="sidenav-left" class="sidenav green lighten-3">
+                <li><a href="#" class="logo-container ">Field Guide 1<img class="left unodc-icon" /><i class="material-icons right  editAnnotations">unfold_more</i></a></li>
+                <li class="no-padding ">
+                    <ul class="collapsible collapsible-accordion">
+                        <li class="bold"><a class="collapsible-header ">Table of Contents<i class="material-icons chevron ">chevron_left</i></a>
+                            <div class="contents-view collapsible-body active" style="background-color : #ffffff">
+                            </div>
+                        </li>
+                        <li class="bold "><a class="collapsible-header ">Bookmarks <i class="material-icons chevron ">chevron_left</i></a>
+                            <div class="bookmarks-view collapsible-body active" style="background-color : #ffffff">
+                            </div>
+                        </li>
+                        <li class="bold "><a class="collapsible-header ">Notes<i class="material-icons chevron ">chevron_left</i></a>
+                            <div class="notes-view collapsible-body active" style="background-color : #ffffff">
+                            </div>
+                        </li>
+                        <li class="bold"><a class="collapsible-header ">Landmarks<i class="material-icons chevron ">chevron_left</i></a>
+                            <div class="landmarks-view collapsible-body active" style="background-color : #ffffff">
+                            </div>
+                        </li>
+                        <li class="bold"><a class="collapsible-header ">Page List<i class="material-icons chevron ">chevron_left</i></a>
+                            <div class="pageList-view collapsible-body active" style="background-color : #ffffff">
+                            </div>
+                        </li>
+                    </ul>
+                </li>
+            </ul>
+            <div id="user-settings" class="dropdown-content settings-view notifications">
+            </div>
+            <div id="notes-input" class="dropdown-content noteInputView notifications" >
+                <ul class="note-menu" role="menu">
+                    <li>
+                        <textarea style="height: 100px; width: 100%; resize: none;border-color: lightgray;" name="text" wrap="soft" class="note-input" name="note-input" placeholder="type your note here"></textarea><br>
+                        <button id="saveNote" class="saveNote btn right">
+                            <span>save note</span>
+                        </button>
+                    </li>
+                </ul>
+            </div>
+        </header>
+        <div id="R2Reader-Container" style="width: 100%; height: 100%;">
+        </div>
+        <footer id="footerMenu">
+            <div class="controls">
+                <ul class="links bottom active green lighten-3" style="height: auto !important;">
+                    <li>
+                        <a rel="prev" class="disabled" role="button" aria-labelledby="previous-label" style="color: initial;">
+                            <i class="material-icons black-text">keyboard_arrow_left</i>
+                            <span class="chapter-control" id="previous-label" style="position: relative; bottom: 5px;">Previous Chapter</span>
+                        </a>
+                    </li>
+                    <li aria-label="chapters" style="position: relative; bottom: 5px;">Chapters</li>
+                    <li>
+                        <a rel="next" class="disabled" role="button" aria-labelledby="next-label" style="color: initial;">
+                            <span class="chapter-control" id="next-label" style="position: relative; bottom: 5px;">Next Chapter</span>
+                            <i class="material-icons black-text">keyboard_arrow_right</i>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </footer>
+    </div>
+    <script>
+        var url = new URL("manifest.json", window.location.href);
+        var cacheUrl = new URL("appcache.html", window.location.href);	
+        var upLink = {url: new URL("https://aferditamuriqi.github.io/u1"), label: "Back", ariaLabel: "Go back"};
+        var serviceWorkerUrl = new URL("https://aferditamuriqi.github.io/viewer/sw.js", window.location.href);
+          R2Reader.load({
+            url: url,
+            customHeader: true,
+            customFooter: true,
+            eventTarget: null,
+            serviceWorkerUrl: serviceWorkerUrl,
+            upLinkUrl: upLink,
+            bookCacheUrl: cacheUrl,
+          });
+    </script>
+    <script src="https://aferditamuriqi.github.io/viewer/materialize.min.js"></script>
+    <script src="https://aferditamuriqi.github.io/viewer/material.js"></script>
+    <noscript>
+        <style>
+            noscript {
+                width: 100%;
+                height: 100vh;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+            }
+
+            .warning {
+                font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+                font-size: 1.5rem;
+                font-weight: bold;
+            }
+        </style>
+        <p class="warning">To use this viewer, please enable JavaScript.</p>
+    </noscript>
+</body>
+</html>

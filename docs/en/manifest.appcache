@@ -1,0 +1,15 @@
+CACHE MANIFEST
+
+index.html
+https://aferditamuriqi.github.io/viewer/r2-reader.css
+https://aferditamuriqi.github.io/viewer/r2-reader.js
+https://aferditamuriqi.github.io/viewer/sw.js
+https://aferditamuriqi.github.io/viewer/fetch.js
+manifest.json
+
+FALLBACK:
+/ index.html
+
+NETWORK:
+*
+
