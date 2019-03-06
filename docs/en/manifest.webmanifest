@@ -3,17 +3,16 @@
   "name": "Smuggling of Migrants & Human Trafficking: A field guide for frontline officers",
   "icons": [
     {
-      "src": "https://fieldguides.github.io/guide01/en/app-icon-192.png",
+      "src": "https://fieldguides.github.io/guide01/en/images/app-icon-192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "https://fieldguides.github.io/guide01/en/app-icon-512.png",
+      "src": "https://fieldguides.github.io/guide01/en/images/app-icon-512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
   ],
-  "start_url": "https://fieldguides.github.io/guide01/en/index.html",
   "background_color": "#81C784",
   "display": "standalone",
   "theme_color": "#81C784",
