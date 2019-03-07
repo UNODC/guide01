@@ -1,0 +1,24 @@
+.kInteractive {
+    cursor: zoom-in;
+    background-color: unset;
+}
+
+.kInteractive:-webkit-full-screen {
+    cursor: zoom-out;
+    background-color: white;
+}
+
+.kInteractive:-moz-full-screen {
+    cursor: zoom-out;
+    background-color: white;
+}
+
+.kInteractive:-ms-fullscreen {
+    cursor: zoom-out;
+    background-color: white;
+}
+
+.kInteractive:fullscreen {
+    cursor: zoom-out;
+    background-color: white;
+}
