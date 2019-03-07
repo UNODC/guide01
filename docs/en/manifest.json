@@ -45,13 +45,6 @@
       }
     },
     {
-      "href": "content/xhtml/raw/frontpage2.xhtml",
-      "type": "application/xhtml+xml",
-      "properties": {
-        "layout": "reflowable"
-      }
-    },
-    {
       "href": "content/xhtml/raw/introduction.xhtml",
       "type": "application/xhtml+xml",
       "properties": {
