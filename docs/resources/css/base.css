@@ -5,3 +5,6 @@ h2, h3 {
     display: block;
     padding: 2px;
 }
+ol, ul {
+    margin-top: -0.5em;
+}
