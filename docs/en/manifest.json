@@ -271,6 +271,22 @@
   ],
   "toc": [
     {
+      "href": "content/xhtml/raw/title.xhtml",
+      "title": "Title"
+    },
+    {
+      "href": "https://fieldguides.github.io/library/en/content/copyright.xhtml",
+      "title": "Inside Cover"
+    },
+    {
+      "href": "https://fieldguides.github.io/library/en/content/frontpage.xhtml",
+      "title": "Front Page"
+    },
+    {
+      "href": "content/xhtml/raw/introduction.xhtml",
+      "title": "Introduction"
+    },
+    {
       "href": "content/xhtml/raw/chapter1.xhtml",
       "title": "Sources of Information"
     },
@@ -408,6 +424,10 @@
     {
       "href": "content/xhtml/raw/chapter20.xhtml",
       "title": "Identifying Imposters"
+    },
+    {
+      "href": "https://fieldguides.github.io/library/en/content/backcover.xhtml",
+      "title": "Back Cover"
     }
   ]
 }
