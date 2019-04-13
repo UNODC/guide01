@@ -31,14 +31,14 @@
       }
     },
     {
-      "href": "content/xhtml/raw/copyright.xhtml",
+      "href": "https://fieldguides.github.io/library/en/content/copyright.xhtml",
       "type": "application/xhtml+xml",
       "properties": {
         "layout": "reflowable"
       }
     },
     {
-      "href": "content/xhtml/raw/frontpage1.xhtml",
+      "href": "https://fieldguides.github.io/library/en/content/frontpage.xhtml",
       "type": "application/xhtml+xml",
       "properties": {
         "layout": "reflowable"
@@ -256,6 +256,13 @@
     },
     {
       "href": "content/xhtml/raw/chapter20.xhtml",
+      "type": "application/xhtml+xml",
+      "properties": {
+        "layout": "reflowable"
+      }
+    },
+    {
+      "href": "https://fieldguides.github.io/library/en/content/backcover.xhtml",
       "type": "application/xhtml+xml",
       "properties": {
         "layout": "reflowable"
