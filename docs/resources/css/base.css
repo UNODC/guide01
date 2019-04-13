@@ -8,3 +8,8 @@ h2, h3 {
 ol, ul {
     margin-top: -0.5em;
 }
+
+h6 {
+    text-transform: unset;
+    font-variant: unset;
+}
