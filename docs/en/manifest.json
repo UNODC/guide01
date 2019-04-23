@@ -288,88 +288,88 @@
     },
     {
       "href": "content/xhtml/chapter1.xhtml",
-      "title": "Sources of Information"
+      "title": "1. Sources of Information"
     },
     {
       "href": "content/xhtml/chapter2.xhtml",
-      "title": "Managing Informants"
+      "title": "2. Managing Informants"
     },
     {
       "href": "content/xhtml/chapter3.xhtml",
-      "title": "Intelligence Reports"
+      "title": "3. Intelligence Reports"
     },
     {
       "href": "content/xhtml/chapter4.xhtml",
-      "title": "Sharing Intelligence"
+      "title": "4. Sharing Intelligence"
     },
     {
       "href": "content/xhtml/chapter5.xhtml",
-      "title": "Decision Making"
+      "title": "5. Decision Making"
     },
     {
       "href": "content/xhtml/chapter6.xhtml",
-      "title": "Operational Orders"
+      "title": "6. Operational Orders"
     },
     {
       "href": "content/xhtml/chapter7.xhtml",
-      "title": "Assessing Risks"
+      "title": "7. Assessing Risks"
     },
     {
       "href": "content/xhtml/chapter8.xhtml",
-      "title": "Surveillance"
+      "title": "8. Surveillance"
     },
     {
       "href": "content/xhtml/chapter9.xhtml",
-      "title": "Technical Investigations"
+      "title": "9. Technical Investigations"
     },
     {
       "href": "content/xhtml/chapter10.xhtml",
-      "title": "Controlled Deliveries"
+      "title": "10. Controlled Deliveries"
     },
     {
       "href": "content/xhtml/chapter11.xhtml",
-      "title": "Preserving a Crime Scene"
+      "title": "11. Preserving a Crime Scene"
     },
     {
-      "title": "Searching a Crime Scene",
+      "title": "12. Searching a Crime Scene",
       "children": [
         {
           "href": "content/xhtml/chapter12-1.xhtml",
-          "title": "Vehicle Search"
+          "title": "12.1. Vehicle Search"
         },
         {
           "href": "content/xhtml/chapter12-2.xhtml",
-          "title": "Premises Search"
+          "title": "12.2. Premises Search"
         },
         {
           "href": "content/xhtml/chapter12-3.xhtml",
-          "title": "Rural Search"
+          "title": "12.3. Rural Search"
         },
         {
           "href": "content/xhtml/chapter12-4.xhtml",
-          "title": "Vessel Search"
+          "title": "12.4. Vessel Search"
         }
       ]
     },
     {
       "href": "content/xhtml/chapter13.xhtml",
-      "title": "Forensic Considerations"
+      "title": "13. Forensic Considerations"
     },
     {
       "href": "content/xhtml/chapter14.xhtml",
-      "title": "Evidence Preservation"
+      "title": "14. Evidence Preservation"
     },
     {
       "href": "content/xhtml/chapter15.xhtml",
-      "title": "Follow the Money Trail"
+      "title": "15. Follow the Money Trail"
     },
     {
       "href": "content/xhtml/chapter16.xhtml",
-      "title": "Searching People"
+      "title": "16. Searching People"
     },
     {
       "href": "content/xhtml/chapter17.xhtml",
-      "title": "Interviewing Suspects",
+      "title": "17. Interviewing Suspects",
       "children": [
         {
           "title": "Sample Interview Questions",
@@ -396,7 +396,7 @@
     },
     {
       "href": "content/xhtml/chapter18.xhtml",
-      "title": "Interviewing Victims",
+      "title": "18. Interviewing Victims",
       "children": [
         {
           "title": "Sample Interview Questions",
@@ -419,11 +419,11 @@
     },
     {
       "href": "content/xhtml/chapter19.xhtml",
-      "title": "Travel Documents"
+      "title": "19. Travel Documents"
     },
     {
       "href": "content/xhtml/chapter20.xhtml",
-      "title": "Identifying Imposters"
+      "title": "20. Identifying Imposters"
     },
     {
       "href": "https://fieldguides.github.io/library/en/content/backcover.xhtml",
