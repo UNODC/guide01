@@ -129,34 +129,6 @@
       }
     },
     {
-      "href": "content/xhtml/chapter12-1.xhtml",
-      "type": "application/xhtml+xml",
-      "properties": {
-        "layout": "reflowable"
-      }
-    },
-    {
-      "href": "content/xhtml/chapter12-2.xhtml",
-      "type": "application/xhtml+xml",
-      "properties": {
-        "layout": "reflowable"
-      }
-    },
-    {
-      "href": "content/xhtml/chapter12-3.xhtml",
-      "type": "application/xhtml+xml",
-      "properties": {
-        "layout": "reflowable"
-      }
-    },
-    {
-      "href": "content/xhtml/chapter12-4.xhtml",
-      "type": "application/xhtml+xml",
-      "properties": {
-        "layout": "reflowable"
-      }
-    },
-    {
       "href": "content/xhtml/chapter13.xhtml",
       "type": "application/xhtml+xml",
       "properties": {
@@ -192,56 +164,7 @@
       }
     },
     {
-      "href": "content/xhtml/chapter17-1-1.xhtml",
-      "type": "application/xhtml+xml",
-      "properties": {
-        "layout": "reflowable"
-      }
-    },
-    {
-      "href": "content/xhtml/chapter17-1-2.xhtml",
-      "type": "application/xhtml+xml",
-      "properties": {
-        "layout": "reflowable"
-      }
-    },
-    {
-      "href": "content/xhtml/chapter17-1-3.xhtml",
-      "type": "application/xhtml+xml",
-      "properties": {
-        "layout": "reflowable"
-      }
-    },
-    {
-      "href": "content/xhtml/chapter17-1-4.xhtml",
-      "type": "application/xhtml+xml",
-      "properties": {
-        "layout": "reflowable"
-      }
-    },
-    {
       "href": "content/xhtml/chapter18.xhtml",
-      "type": "application/xhtml+xml",
-      "properties": {
-        "layout": "reflowable"
-      }
-    },
-    {
-      "href": "content/xhtml/chapter18-1-1.xhtml",
-      "type": "application/xhtml+xml",
-      "properties": {
-        "layout": "reflowable"
-      }
-    },
-    {
-      "href": "content/xhtml/chapter18-1-2.xhtml",
-      "type": "application/xhtml+xml",
-      "properties": {
-        "layout": "reflowable"
-      }
-    },
-    {
-      "href": "content/xhtml/chapter18-1-3.xhtml",
       "type": "application/xhtml+xml",
       "properties": {
         "layout": "reflowable"
