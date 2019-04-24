@@ -1,44 +1,49 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-134670474-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-134670474-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
 
-  gtag('config', 'UA-134670474-1');
-</script>
+        gtag('config', 'UA-134670474-1');
+    </script>
 
-  <title>Smuggling of Migrants &amp; Human Trafficking: A field guide for frontline officers</title>
-  <meta charset="utf-8">
-  <link rel="manifest" href="manifest.webmanifest">
-  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover" />
-  <link rel="stylesheet" href="https://aferditamuriqi.github.io/viewer/r2-reader.css" />
-  <script> var exports = {}; </script>
-  <script src="https://aferditamuriqi.github.io/viewer/r2-reader.js"></script>
-  <script src="https://aferditamuriqi.github.io/viewer/fetch.js"></script>
-  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-  <link rel="stylesheet" href="https://aferditamuriqi.github.io/viewer/material.css" />
-  <style>
-    #nav-mobile-left li a i {
-      color: #000000 !important;
-    }
-    .btn {
-      background-color: #81C784 !important;
-    }
-    .settings-view > .settings-menu .settings-options > .reading-style > button.active {
-      background-color: #81C784 !important;
-    }
-    .unodc-icon {
-      line-height: 48px;
-      margin: 17px 20px 0 0;
-      width: 36px;
-      content: url("https://fieldguides.github.io/library/icon.png");
-    }
-  </style>
+    <title>Smuggling of Migrants &amp; Human Trafficking: A field guide for frontline officers</title>
+    <meta charset="utf-8">
+    <link rel="manifest" href="manifest.webmanifest">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover" />
+    <link rel="stylesheet" href="https://aferditamuriqi.github.io/viewer/r2-reader.css" />
+    <script> var exports = {}; </script>
+    <script src="https://aferditamuriqi.github.io/viewer/r2-reader.js"></script>
+    <script src="https://aferditamuriqi.github.io/viewer/fetch.js"></script>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="stylesheet" href="https://aferditamuriqi.github.io/viewer/material.css" />
+    <style>
+        #nav-mobile-left li a i {
+            color: #000000 !important;
+        }
+
+        .btn {
+            background-color: #81C784 !important;
+        }
+
+        .settings-view>.settings-menu .settings-options>.reading-style>button.active {
+            background-color: #81C784 !important;
+        }
+
+        .unodc-icon {
+            line-height: 48px;
+            margin: 17px 20px 0 0;
+            width: 36px;
+            content: url("https://fieldguides.github.io/library/icon.png");
+        }
+    </style>
 </head>
+
 <body>
     <div class="content" id="root">
         <header id="headerMenu">
@@ -49,9 +54,11 @@
                             <li><a data-target="notes-input" class="dropdown-trigger "><i class="material-icons ">speaker_notes</i></a></li>
                             <li><a class="saveBookmark" id="saveBookmark"><i class="material-icons ">bookmark</i></a></li>
                             <li><a data-target="user-settings" class="dropdown-trigger "><i class="material-icons ">settings</i></a></li>
-                         </ul>
+                        </ul>
                         <ul id="nav-mobile-left" class="left">
                             <li><a href="#!" data-target="sidenav-left" class="sidenav-trigger left"><i class="material-icons  show-on-large">menu</i></a></li>
+                            <li><i class="material-icons ">arrow_back_ios</i></li>
+                            <li><i class="material-icons ">arrow_forward_ios</i></li>
                         </ul>
                     </div>
                 </nav>
@@ -85,10 +92,11 @@
             </ul>
             <div id="user-settings" class="dropdown-content settings-view notifications">
             </div>
-            <div id="notes-input" class="dropdown-content noteInputView notifications" >
+            <div id="notes-input" class="dropdown-content noteInputView notifications">
                 <ul class="note-menu" role="menu">
                     <li>
-                        <textarea style="height: 100px; width: 100%; resize: none;border-color: lightgray;" name="text" wrap="soft" class="note-input" name="note-input" placeholder="type your note here"></textarea><br>
+                        <textarea style="height: 100px; width: 100%; resize: none;border-color: lightgray;" name="text"
+                            wrap="soft" class="note-input" name="note-input" placeholder="type your note here"></textarea><br>
                         <button id="saveNote" class="saveNote btn right">
                             <span>save note</span>
                         </button>
@@ -103,15 +111,15 @@
     </div>
     <script>
         var url = new URL("manifest.json", window.location.href);
-        var upLink = {url: new URL("https://fieldguides.github.io/guide01"), label: "Back", ariaLabel: "Go back"};
+        var upLink = { url: new URL("https://fieldguides.github.io/guide01"), label: "Back", ariaLabel: "Go back" };
         var serviceWorkerUrl = new URL("https://fieldguides.github.io/guide01/resources/js/sw.js", window.location.href);
-          R2Reader.load({
+        R2Reader.load({
             url: url,
             customHeader: true,
             customFooter: true,
             serviceWorkerUrl: serviceWorkerUrl,
             upLinkUrl: upLink,
-          });
+        });
     </script>
     <script src="https://aferditamuriqi.github.io/viewer/materialize.min.js"></script>
     <script src="https://aferditamuriqi.github.io/viewer/material.js"></script>
@@ -126,7 +134,8 @@
             }
 
             .warning {
-                font-family: Roboto, sans-serif;;
+                font-family: Roboto, sans-serif;
+                ;
                 font-size: 1.5rem;
                 font-weight: bold;
             }
@@ -134,4 +143,5 @@
         <p class="warning">To use this viewer, please enable JavaScript.</p>
     </noscript>
 </body>
+
 </html>
