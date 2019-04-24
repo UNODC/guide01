@@ -334,19 +334,19 @@
       "title": "12. Searching a Crime Scene",
       "children": [
         {
-          "href": "content/xhtml/chapter12-1.xhtml",
+          "href": "content/xhtml/chapter12.xhtml#12-1",
           "title": "12.1. Vehicle Search"
         },
         {
-          "href": "content/xhtml/chapter12-2.xhtml",
+          "href": "content/xhtml/chapter12.xhtml#12-2",
           "title": "12.2. Premises Search"
         },
         {
-          "href": "content/xhtml/chapter12-3.xhtml",
+          "href": "content/xhtml/chapter12.xhtml#12-3",
           "title": "12.3. Rural Search"
         },
         {
-          "href": "content/xhtml/chapter12-4.xhtml",
+          "href": "content/xhtml/chapter12.xhtml#12-4",
           "title": "12.4. Vessel Search"
         }
       ]
@@ -375,19 +375,19 @@
           "title": "Sample Interview Questions",
           "children": [
             {
-              "href": "content/xhtml/chapter17-1-1.xhtml",
+              "href": "content/xhtml/chapter17.xhtml#17-1-1",
               "title": "For Migrant Smugglers"
             },
             {
-              "href": "content/xhtml/chapter17-1-2.xhtml",
+              "href": "content/xhtml/chapter17.xhtml#17-1-2",
               "title": "For Human Trafficking Suspects"
             },
             {
-              "href": "content/xhtml/chapter17-1-3.xhtml",
+              "href": "content/xhtml/chapter17.xhtml#17-1-3",
               "title": "For Businesses that Employ Victims"
             },
             {
-              "href": "content/xhtml/chapter17-1-4.xhtml",
+              "href": "content/xhtml/chapter17.xhtml#17-1-4",
               "title": "For Safe House Operators who Hide Victims"
             }
           ]
@@ -402,15 +402,15 @@
           "title": "Sample Interview Questions",
           "children": [
             {
-              "href": "content/xhtml/chapter18-1-1.xhtml",
+              "href": "content/xhtml/chapter18.xhtml#18-1-1",
               "title": "For migrants:"
             },
             {
-              "href": "content/xhtml/chapter18-1-2.xhtml",
+              "href": "content/xhtml/chapter18.xhtml##18-1-2",
               "title": "For human trafficking victims:"
             },
             {
-              "href": "content/xhtml/chapter18-1-3.xhtml",
+              "href": "content/xhtml/chapter18.xhtml#18-1-3",
               "title": "For child victims:"
             }
           ]
